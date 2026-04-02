@@ -1,0 +1,38 @@
+# --- Laravel Core ---
+/vendor
+.env
+.env.backup
+.env.production
+/storage/*.key
+/storage/pail
+/public/storage
+/public/hot
+/auth.json
+_ide_helper.php
+.phpunit.result.cache
+/.phpunit.cache
+
+# --- Frontend & Build ---
+/node_modules
+/public/build
+npm-debug.log
+yarn-error.log
+
+# --- Database (Crucial for SQLite users) ---
+/database/*.sqlite
+/database/*.sqlite-journal
+
+# --- IDEs & Editors ---
+/.idea
+/.vscode
+/.fleet
+/.nova
+/.zed
+.phpactor.json
+Homestead.json
+Homestead.yaml
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
+*.log
