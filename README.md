@@ -17,7 +17,7 @@ SubManager is a high-performance, modern subscription management application des
 
 ## 🚀 Tech Stack
 
-- **Backend:** [Laravel 12](https://laravel.com)
+- **Backend:** [Laravel](https://laravel.com)
 - **Frontend:** [Livewire 4](https://livewire.laravel.com) & [Alpine.js](https://alpinejs.dev)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com) (Modern Dark Mode UI)
 - **Database:** SQLite (Default) / MySQL
